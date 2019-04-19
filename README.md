@@ -6,7 +6,9 @@ Sitio web para el proyecto Colombianos en Alemania.
 
 [Enlace al grupo en Facebbok](https://www.facebook.com/groups/1494720567454527/)
 
-[Enlace al sitio web](https://www.facebook.com/groups/1494720567454527/)
+[Enlace al sitio web](https://javierreyes945.github.io/colombianos-alemania-site/)
+
+[Enlace al workspace de Slack](colombianos-alemania.slack.com)
 
 ## Administrador
 
@@ -21,6 +23,13 @@ Se espera que la página ofrezca _posts_ de contenido tipo texto, hipervínculos
 y multimedia.
 
 Todo aporte (contenido, formato, estilo, etc.) es bienvenido.
+
+### Metodología
+
+Cualquier aporte deberá ser hecho en un _branch_ específico, derivado del
+branch _development_. El _merge_ se realizara de _featurebranch_ a
+_development_, y una vez confirmado y verficado, se integrara con _master_, de
+donde opera el sitio publicado mediante la opción *Sites*.
 
 ## Desarrollo
 
