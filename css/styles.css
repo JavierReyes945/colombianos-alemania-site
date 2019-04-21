@@ -1,0 +1,19 @@
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+article * {
+    grid-column: 2 / 3;
+}
+
+p {
+    color: #cc6666;
+    background-color: #1d1f21;
+    text-align: center;
+    padding: 20px;
+}
+
+@media (max-width: 800px) {
+    p { color: #b5bd68; }
+}

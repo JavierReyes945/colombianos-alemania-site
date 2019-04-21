@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+:root {
+    font: 20px/1.2 "Source Sans Pro", sans-serif;
+}
+
+body, body * {
+    margin         : unset;
+    box-sizing     : unset;
+    padding        : unset;
+    font-size      : unset;
+    color          : unset;
+    text-decoration: unset;
+}
